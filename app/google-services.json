@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016218857522",
+    "firebase_url": "https://dailydose-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dailydose-app",
+    "storage_bucket": "dailydose-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016218857522:android:3d3777594e8f4c6ee00c2b",
+        "android_client_info": {
+          "package_name": "com.example.dailydose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016218857522-0bpnqrca7teuecudnce7vgk9vp8gibjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXUn5pkDvi1g72K5SdfXUK5GagJrHIN3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016218857522-0bpnqrca7teuecudnce7vgk9vp8gibjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
